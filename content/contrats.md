@@ -7,6 +7,8 @@ title = "Les Contrats"
 ## 🍆 Contrat Légumes (Ferme de l'Aunette)
   * [Contrat 48 paniers](/contrats/Contrat_Panier_legumes_2025_v2.pdf)
 
+## 🐔🎄 [Spécial Noël Volailles](/contrats/2024 TARIFS VOLAILLES FETES.xlsx) (Jean-Paul)
+
 ## 🍯 [Contrat Miel](/contrats/contrat_miel_2024.docx) (Malika)
 ## 🥖 [Contrat Pain](/contrats/Contrat-Pain-2024.docx) (Mickael)
 ## 🐔 [Contrat Volailles](/contrats/2024-CONTRAT-VOLAILLES.doc) (Jean-Paul)
