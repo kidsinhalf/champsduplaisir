@@ -16,7 +16,6 @@ jobs:
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.19.2
         env:
-          BUILD_DIR: public
           BUILD_ONLY: true
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
