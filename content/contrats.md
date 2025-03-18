@@ -9,8 +9,8 @@ title = "Les Contrats"
 
 ## 🐔🎄 [Spécial Noël Volailles](/contrats/2024%20TARIFS%20VOLAILLES%20FETES.xlsx) (Jean-Paul)
 
-## 🍯 [Contrat Miel](/contrats/contrat_miel_2024.docx) (Malika)
-## 🥖 [Contrat Pain](/contrats/Contrat-Pain-2024.docx) (Mickael)
+## 🍯 [Contrat Miel](/contrats/contrat_miel_2025.docx) (Malika)
+## 🥖 [Contrat Pain](/contrats/Contrat%20pain%202025%20St%20Pierre%20avec%20annexe.pdf) (Mickael)
 ## 🐔 [Contrat Volailles](/contrats/2024-CONTRAT-VOLAILLES.doc) (Jean-Paul)
 ## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
 ## 🧀 [Contrat Fromages](/contrats/2024-CONTRAT-FROMAGES-CHEVRE.docx) et [Contrat Yaourts/Faisselles](/contrats/2024-CONTRAT-FAISSELLES.docx)
