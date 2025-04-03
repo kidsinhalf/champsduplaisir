@@ -14,8 +14,7 @@ title = "Les Contrats"
 ## 🐔 [Contrat Volailles](/contrats/2025%20CONTRAT%20VOLAILLES.doc) (Jean-Paul)
 ## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
 ## 🧀 [Contrat Fromages](/contrats/2024-CONTRAT-FROMAGES-CHEVRE.docx) et [Contrat Yaourts/Faisselles](/contrats/2024-CONTRAT-FAISSELLES.docx)
-## 🐂 [Contrat Viandes](/contrats/Tableau-commande-Amapiens-mai-2024.docx) (Pierre Rozé)
-  * [Composition des colis viande](/contrats/rozay-tarifs-_composition-des-colis_2024.docx)
+## 🐂 [Contrat Viandes](/contrats/Contrat-Viande-2025.pdf) (Pierre Rozé)
 
 
 A lire attentivement avant de les remplir, les signer et de nous les remettre, soit pendant les distributions, soit par courrier ou dépôt dans la boîte à lettres du
