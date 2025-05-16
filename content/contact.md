@@ -18,7 +18,7 @@ title = "Contact"
 
 ## Président
 
-Loïc CRAS ­— [06 18 63 24 17](tel:+33618632417)
+Denis RABOURDIN ­— [06 22 58 32 65](tel:+33622583265)
 
 ## Trésorier
 
