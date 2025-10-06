@@ -16,7 +16,7 @@ title = "Les Contrats"
 ## 🐔 [Contrat Volailles](/contrats/2025%20CONTRAT%20VOLAILLES.doc) (Jean-Paul)
 ## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
 ## 🧀 [Contrat Fromages](/contrats/2025_contrat_fromages-chevre.pdf) et [Contrat Yaourts/Faisselles](/contrats/2025_contrat_faisselles.pdf)
-## 🐂 [Contrat Viandes](/contrats/Contrat-Viande-2025.pdf) (Pierre Rozé)
+## 🐂 [Contrat Viandes](/contrats/Viande-Nov2025-Commande.pdf) - cf [Tarifs](/contrats/Viande-Nov2025-Tarifs.pdf) (Pierre Rozé)
 
 
 A lire attentivement avant de les remplir, les signer et de nous les remettre, soit pendant les distributions, soit par courrier ou dépôt dans la boîte à lettres du
