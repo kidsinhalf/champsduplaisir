@@ -6,6 +6,12 @@ title = "Les Contrats"
 
 ## 🍆 Contrat Légumes (Ferme de l'Aunette)
   * [Contrat 48 paniers](/contrats/Contrat_Panier_legumes_2025_v2.pdf)
+
+## 🐂 [Contrat Viandes](/contrats/Viande-Nov2025-Commande.pdf) - cf [Tarifs](/contrats/Viande-Nov2025-Tarifs.pdf) (Pierre Rozé)
+
+## 🌰 Contrat Châtaignes (Gael van der Meij en Ardèche)
+  * [Contrat Chataignes](/contrats/Chataignes-2025.pdf)
+
 ## 🥚 Contrat Oeufs (Ferme de l'Aunette)
   * [Contrat 2025 en cours](/contrats/Contrat-oeufs-2025.docx)  
 
@@ -16,7 +22,7 @@ title = "Les Contrats"
 ## 🐔 [Contrat Volailles](/contrats/2025%20CONTRAT%20VOLAILLES.doc) (Jean-Paul)
 ## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
 ## 🧀 [Contrat Fromages](/contrats/2025_contrat_fromages-chevre.pdf) et [Contrat Yaourts/Faisselles](/contrats/2025_contrat_faisselles.pdf)
-## 🐂 [Contrat Viandes](/contrats/Viande-Nov2025-Commande.pdf) - cf [Tarifs](/contrats/Viande-Nov2025-Tarifs.pdf) (Pierre Rozé)
+
 
 
 A lire attentivement avant de les remplir, les signer et de nous les remettre, soit pendant les distributions, soit par courrier ou dépôt dans la boîte à lettres du
