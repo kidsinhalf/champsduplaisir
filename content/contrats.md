@@ -17,7 +17,7 @@ title = "Les Contrats"
 
 ## 🐔🎄 [Spécial Noël Volailles](/contrats/2024%20TARIFS%20VOLAILLES%20FETES.xlsx) (Jean-Paul)
 
-## 🍯 [Contrat Miel](/contrats/contrat_miel_2025.docx) (Malika)
+## 🍯 [Contrat Miel](/contrats/contrat_miel_2026.docx) (Malika)
 ## 🥖 [Contrat Pain](/contrats/Contrat-pain-2026.pdf) (Mickael)
 ## 🐔 [Contrat Volailles](/contrats/2025%20CONTRAT%20VOLAILLES.doc) (Jean-Paul)
 ## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
