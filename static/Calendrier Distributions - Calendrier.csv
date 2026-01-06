@@ -1,4 +1,4 @@
-num distrib,date prévue,date confirmée,legumes 🥕,pain 🥖,pizza 🍕,sablés,miel 🍯,formage 🧀,volaille 🐔,porc,boeuf
+num distrib,date prévue,date confirmée,legumes 🥕,pain 🥖,pizza 🍕,sablés,miel 🍯,formage 🧀,volaille 🐔,boeuf
 1,06/01/26,06/01/26,1,1,,,,,,
 2,13/01/26,13/01/26,1,1,,,1,,,
 3,20/01/26,20/01/26,1,1,,,,,,
@@ -51,5 +51,6 @@ num distrib,date prévue,date confirmée,legumes 🥕,pain 🥖,pizza 🍕,sabl�
 50,15/12/26,15/12/26,1,1,1,,,,,
 51,22/12/26,22/12/26,,,,,,,,
 52,29/12/26,29/12/26,,,,,,,,
+
 
 
