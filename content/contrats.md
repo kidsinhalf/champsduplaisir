@@ -9,7 +9,7 @@ title = "Les Contrats"
 ## 🥚 Contrat Oeufs (Ferme de l'Aunette)
   * [Contrat 2026](/contrats/Oeufs-2026.pdf)  
 
-## 🐂 [Contrat Viandes](/contrats/Viande-Nov2025-Commande.pdf) - cf [Tarifs](/contrats/Viande-Nov2025-Tarifs.pdf) (Pierre Rozé)
+## 🐂 [Contrat Viandes format PDF](/contrats/ViandeCommande2026.pdf) ou [Contrat Viandes format Word](/contrats/ViandeCommande2026.docx)- cf [Tarifs](/contrats/Viande2026.pdf) (Pierre Rozé)
 
 ## 🌰 Contrat Châtaignes (Gael van der Meij en Ardèche)
   * [Contrat Chataignes](/contrats/Chataignes-2025.pdf)
