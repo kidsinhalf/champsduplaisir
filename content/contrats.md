@@ -9,6 +9,9 @@ title = "Les Contrats"
 ## 🥚 Contrat Oeufs (Ferme de l'Aunette)
   * [Contrat 2026](/contrats/Oeufs-2026.pdf)  
 
+
+## 🐔 [Contrat Volailles](/contrats/2026%20CONTRAT%20VOLAILLE.doc) (Jean-Paul)
+
 ## 🐂 [Contrat Viandes format PDF](/contrats/ViandeCommande2026.pdf) ou [Contrat Viandes format Word](/contrats/ViandeCommande2026.docx)- cf [Tarifs](/contrats/Viande2026.pdf) (Pierre Rozé)
 
 ## 🌰 Contrat Châtaignes (Gael van der Meij en Ardèche)
@@ -19,7 +22,6 @@ title = "Les Contrats"
 
 ## 🍯 [Contrat Miel](/contrats/contrat_miel_2026.docx) (Malika)
 ## 🥖 [Contrat Pain](/contrats/Contrat-pain-2026.pdf) (Mickael)
-## 🐔 [Contrat Volailles](/contrats/2025%20CONTRAT%20VOLAILLES.doc) (Jean-Paul)
 ## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
 ## 🧀 [Contrat Fromages](/contrats/2025_contrat_fromages-chevre.pdf) et [Contrat Yaourts/Faisselles](/contrats/2025_contrat_faisselles.pdf)
 
