@@ -10,7 +10,7 @@ title = "Les Contrats"
   * [Contrat 2026](/contrats/Oeufs-2026.pdf)  
 
 
-## 🐔 [Contrat Volailles](/contrats/2026%20CONTRAT%20VOLAILLE.doc) (Jean-Paul)
+## 🐔 [Contrat Volailles](/contrats/ContratVolaille2026.pdf) (Jean-Paul)
 
 ## 🐂 [Contrat Viandes format PDF](/contrats/ViandeCommande2026.pdf) ou [Contrat Viandes format Word](/contrats/ViandeCommande2026.docx)- cf [Tarifs](/contrats/Viande2026.pdf) (Pierre Rozé)
 
