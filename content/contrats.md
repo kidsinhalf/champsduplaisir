@@ -12,7 +12,7 @@ title = "Les Contrats"
 
 ## 🐔 [Contrat Volailles](/contrats/ContratVolaille2026.pdf) (Jean-Paul)
 
-## 🐂 [Contrat Viandes format PDF](/contrats/Viande26-12.pdf) (Pierre Rozé)
+## 🐂 [Contrat Viandes format PDF](/contrats/Viande26-12.pdf) (Pierre Rozé) [Composition des colis](/contrats/TarifsViande2026.pdf)
 
 ## 🌰 Contrat Châtaignes (Gael van der Meij en Ardèche)
   * [Contrat Chataignes](/contrats/Chataigne_12_26.pdf)
