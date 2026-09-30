@@ -12,17 +12,17 @@ title = "Les Contrats"
 
 ## 🐔 [Contrat Volailles](/contrats/ContratVolaille2026.pdf) (Jean-Paul)
 
-## 🐂 [Contrat Viandes format PDF](/contrats/ViandeCommande2026.pdf) ou [Contrat Viandes format Word](/contrats/ViandeCommande2026.docx)- cf [Tarifs](/contrats/Viande2026.pdf) (Pierre Rozé)
+## 🐂 [Contrat Viandes format PDF](/contrats/Viande26-12.pdf) (Pierre Rozé)
 
 ## 🌰 Contrat Châtaignes (Gael van der Meij en Ardèche)
-  * [Contrat Chataignes](/contrats/Chataignes-2025.pdf)
+  * [Contrat Chataignes](/contrats/Chataigne_12_26.pdf)
 
 
-## 🐔🎄 [Spécial Noël Volailles](/contrats/2024%20TARIFS%20VOLAILLES%20FETES.xlsx) (Jean-Paul)
 
 ## 🍯 [Contrat Miel](/contrats/contrat_miel_2026.docx) (Malika)
 ## 🥖 [Contrat Pain](/contrats/Contrat-pain-2026.pdf) (Mickael)
-## 🐷 [Contrat Porc](/contrats/2024-CONTRAT-PORC-St-Pierre-du-Perray.doc) (Jean-Paul)
+
+# Contrats terminés
 ## 🧀 [Contrat Fromages](/contrats/2025_contrat_fromages-chevre.pdf) et [Contrat Yaourts/Faisselles](/contrats/2025_contrat_faisselles.pdf)
 
 
